@@ -1,0 +1,119 @@
+/* style.css */
+body{
+  font-size: 20px;
+  font-family:'Average Sans', sans-serif;
+  text-align: center;}
+
+h1 { vertical-align;
+font-size: 40px;
+line-height: 250px;}
+
+h1:hover  {
+  color: #77C8CB;
+  font-size: 40px;}
+
+h2 { 
+margin : 1px;
+font-size: 20px;}
+
+.research { 
+  text-align:right;
+  margin-right: 1px;}
+
+.loupe{
+  margin-right: 1px;}
+
+#logo { 
+  margin-left: 10px;} 
+
+#contact {
+  text-align:right;}
+
+#banner {
+  text-align: center;
+  color: white;
+  width: 100%;
+  height: 100%;
+  color:white;
+  background-image:url(images/tree.jpg);
+  background-size: cover;}
+
+
+#clean {
+  line-height: 24px;}
+
+
+#user {
+  margin-right: 10px;
+  color: black;}
+#user p: hover {
+ color : black;
+ font-size: 24px;}
+
+
+#menu {
+  background-color:#6D8D99;
+  background-size:cover;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 0;
+}
+
+#menu a {
+  color: black;
+}
+#menu a:hover {
+  color: #77C8CB;
+}
+
+
+
+#lastnews { 
+  font-size: 24px;}
+#lastnews:hover  {
+  color: "black";
+  font-size: 24px;}
+
+
+#footer{
+  display: flex;
+  justify-content:space-around;
+  align-items: flex;
+  padding: 10px 0;
+  margin-top:20px;
+}
+#footer {
+  color:black;
+  font-size:24px;
+  background-color: #E4DFDF;
+  background: cover;}
+
+#follow: {
+  text-align: left;}
+#follow:hover  {
+  color: #77C8CB;
+  font-size: 24px;}
+
+
+#contact {
+  text-align:right;}
+#contact:hover  {
+  color: #77C8CB;
+  font-size: 24px;}
+
+.flex-item{
+  flex: 1px;}
+.flex-body{1 0 auto}
+
+.search {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 8px;
+}
+
+.top-menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
